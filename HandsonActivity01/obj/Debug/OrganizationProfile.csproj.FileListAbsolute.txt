@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ActivityOne\ActivityOne\bin\Debug\ActivityOne.exe.config
+C:\Users\user\source\repos\ActivityOne\ActivityOne\bin\Debug\ActivityOne.exe
+C:\Users\user\source\repos\ActivityOne\ActivityOne\bin\Debug\ActivityOne.pdb
+C:\Users\user\source\repos\ActivityOne\ActivityOne\obj\Debug\OrganizationProfile.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ActivityOne\ActivityOne\obj\Debug\ActivityOne.frmRegistration.resources
+C:\Users\user\source\repos\ActivityOne\ActivityOne\obj\Debug\ActivityOne.frmConfirmation.resources
+C:\Users\user\source\repos\ActivityOne\ActivityOne\obj\Debug\ActivityOne.Properties.Resources.resources
+C:\Users\user\source\repos\ActivityOne\ActivityOne\obj\Debug\OrganizationProfile.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ActivityOne\ActivityOne\obj\Debug\OrganizationProfile.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ActivityOne\ActivityOne\obj\Debug\ActivityOne.exe
+C:\Users\user\source\repos\ActivityOne\ActivityOne\obj\Debug\ActivityOne.pdb
